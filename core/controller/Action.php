@@ -1,10 +1,5 @@
 <?php
 
-
-// 12 de Octubre del 2014
-// Action.php
-// @brief Un action corresponde a una rutina de un modulo.
-
 class Action {
 	/**
 	* @function load
@@ -23,8 +18,6 @@ class Action {
 			}else{
 				Action::Error("<b>404 NOT FOUND</b> Action <b>".$_GET['action']."</b> folder !!");
 			}
-
-
 
 		}
 	}

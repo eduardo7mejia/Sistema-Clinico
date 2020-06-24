@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-8">
         <h2 class="text-center">Nuevo Paciente</h2>
         <form class="form-horizontal" method="post" id="addproduct" action="index.php?view=addpacient" role="form">
             <div class="form-group">

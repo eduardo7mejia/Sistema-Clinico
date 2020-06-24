@@ -1,7 +1,7 @@
 <?php
 
 // Definimos nuestra zona horaria
-date_default_timezone_set("America/Bogota");
+date_default_timezone_set("America/Mexico_City");
 
 $rx = ReservationData::getRepeated($_POST["pacient_id"],$_POST["medic_id"],$_POST["date_at"],$_POST["time_at"]);
 if($rx==null){

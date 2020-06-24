@@ -1,10 +1,6 @@
 <?php
 
 
-
-// Cookie.php
-// @brief esto es algo mucho mas magico
-
 class Cookie {
 	function __get($value){
 		if(!$this->exist($value)){

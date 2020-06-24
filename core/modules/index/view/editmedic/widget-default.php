@@ -61,7 +61,7 @@ $categories = CategoryData::getAll();
             </div>
 
 
-            <p class="alert alert-info">* Campos obligatorios</p>
+            <!-- <p class="alert alert-info">* Campos obligatorios</p> -->
 
             <div class="form-group">
                 <div class="col-lg-offset-2 col-lg-10">

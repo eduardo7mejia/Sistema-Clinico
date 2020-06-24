@@ -182,14 +182,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `name`, `lastname`, `email`, `password`, `is_active`, `is_admin`, `created_at`) VALUES
-(1, 'admin', 'admin', 'admin', NULL, '90b9aa7e25f80cf4f64e990b78a9fc5ebd6cecad', 1, 1, '2016-10-25 21:45:24'),
-(2, 'medico', 'carlos', 'pacheco', NULL, 'e0e2cd25324998dbf82e2e3ae9be321802d6cca9', 1, 0, '2016-10-26 20:55:34'),
-(3, 'adrian', 'adrian', 'pacheco', NULL, '5898c493a839577b472381d26d47ceb489ac4b9c', 1, 0, '2016-11-15 21:13:00'),
-(4, 'carlosyo2', 'carlos adrian', 'pacheco lara', 'carlos.cart3l@hotmail.mx', '30729dad7c708e2653038ebf3825bc6a1b39e42f', 1, 0, '2017-01-16 20:52:48'),
-(5, 'admin2', 'nada', 'pacheco', 'carlos.cart3l@hotmail.commm', '30729dad7c708e2653038ebf3825bc6a1b39e42f', 1, 1, '2017-01-16 21:01:18'),
-(6, 'nada2', 'nada', 'nada', 'carlos.cart3l@hotmail.mx', '30729dad7c708e2653038ebf3825bc6a1b39e42f', 0, 0, '2017-01-16 21:03:00'),
-(7, 'nada3', 'nada2', 'nada2', 'carlos.cart3l@hotmail.mx', '30729dad7c708e2653038ebf3825bc6a1b39e42f', 1, 0, '2017-01-16 21:03:34');
-
+(1, 'admin', 'admin', 'admin', NULL, '90b9aa7e25f80cf4f64e990b78a9fc5ebd6cecad', 1, 1, '2010-06-18 21:45:24');
 --
 -- Índices para tablas volcadas
 --

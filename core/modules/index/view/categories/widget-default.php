@@ -4,7 +4,7 @@
             <a href="index.php?view=newcategory" class="btn btn-primary"><i class='fa fa-th-list'></i> Nueva
                 Categoria</a>
         </div>
-        <h2 class="text-center">Categorias</h2>
+        <h2 class="text-center">Especialidad</h2>
         <?php
 
 		$users = CategoryData::getAll();
